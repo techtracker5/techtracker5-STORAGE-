@@ -1,0 +1,103 @@
+---
+title:		"[ No coding ] How to create advanced telegram bot using Bots.Business for free."
+date:		2021-06-29 00:00:00
+updated:	2023-08-11 09:57:10
+tags: 
+  - Android
+  - Bots.Business
+  - Telegram Bot
+  - free
+  - technology	
+permalink:	https://www.techtracker.in/2021/06/botsbusiness-no-coding-create-advanced.html
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-xcGsbhk2b3U/YNoVOekDF-I/AAAAAAAAFTY/EDoHsQ44-kMxDlk-cn3SRr3cMosbTlKMACLcBGAsYHQ/s1600/1624905012855608-0.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-xcGsbhk2b3U/YNoVOekDF-I/AAAAAAAAFTY/EDoHsQ44-kMxDlk-cn3SRr3cMosbTlKMACLcBGAsYHQ/s1600/1624905012855608-0.png" width="400">
+  </a>
+</div><div><br></div><div>If you are familiar with Telegram then you may already know Telegram is hub of alot of bots while some of the bots are created by Telegram for users but most bots were created by third party developers &amp; people around the world using powerful Telegram public API which all developers can utilise and create thier own bots with thier own functionality and features.</div><div><br></div><div>Yes, Telegram public API is very easy and simple to use but to develop any basic bot of your own you need to write code or you can use public repositories in your bots if the repository have code that work for the project that you are developing to simplify the process and save time but if you don't know coding or repositories developing a advanced Telegram bot is bit difficult you have to learn Github and few programming languages based on the project or you can hire some freelancers to work for you.</div><div><br></div><div>But, if you do not insist to learn Github and coding or hire freelancers then you have to choose a bot development platform which is user friendly with all required features &amp; functions to develop a advanced telegram without coding thus you are able to add or integrate your own features and functions.</div><div><br></div><div>However, Most bot development platforms are not newbie friendly you need to atleast have basic idea behind bot development &amp; coding terms to create successful bot else it will take so much time including that this bot development platforms aren't free only few bot developments platforms offer free access to thier features so, if you want to create advanced telegram bot in ease then you must to choose best bot development platform else you may face issues later.</div><div><br></div><div>In this scenario, we have a workaround we found best free bot development platform named Bots.Bussines which is an Android app with numerous features and functions to create advanced Telegram bot for free without coding, Bot.bussiness is currently available as web version and available as app for Android but as per thier official website they will launch app for iOS to soon. do we got your attention?are you interested to create telegram bot using bots.bussines? let's know little more Info about bot.business before we start exploring more!</div><div><br></div><div><b>• Bots.Business official support •</b></div><div><b><br></b></div><div><b>- </b><a href="https://t.me/chatbotsbusiness">Telegram</a></div><div><br></div><div><b>Website</b> :&nbsp;<a href="https://app.bots.business">app.bots.business</a></div><div><b>Email :&nbsp;</b><a href="http://hello@bots.business">hello@bots.business</a><br></div><div><b><br></b></div><div><b>- App Info - </b><a href="https://play.google.com/store/apps/details?id=bb_app.com.bots.business">Google Play</a> -&nbsp;</div><div><b><br></b></div><div><b>• How to download Bots.Business •</b></div><div><b><br></b></div><div>It is very easy to download bots.business from these platforms for free.</div><div><br></div><div>- <a href="https://t.me/chatbotsbusiness">Google Play&nbsp;</a></div><div>- <a href="https://m.apkpure.com/bots-business-%E2%80%93-create-your-own-bot/bb_app.com.bots.business">Apkpure</a></div><div><b><br></b></div><div><b>• How to sign up on <a href="https://.www.Bot.Business">Bot.Business</a> and create advanced telegram bot with key features &amp; UI / UX overview •</b></div><div><b><br></b></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-mcC4lfns_Kc/YNoVM_9xcrI/AAAAAAAAFTU/BoYL9vXcWfMCE_Q7_uttgVaKpKnJIwfXACLcBGAsYHQ/s1600/1624905007330903-1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-mcC4lfns_Kc/YNoVM_9xcrI/AAAAAAAAFTU/BoYL9vXcWfMCE_Q7_uttgVaKpKnJIwfXACLcBGAsYHQ/s1600/1624905007330903-1.png" width="400">
+  </a>
+</div>- Open Bots.Bussines App and Enter Your Email, Password, Confirm Password and Tap on <b>Register</b>.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-8GHijZjOfrM/YNoVLr24WLI/AAAAAAAAFTM/bu9u48WF3UI2NJfgCdbBey-c8P_HsKeZgCLcBGAsYHQ/s1600/1624905002266844-2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-8GHijZjOfrM/YNoVLr24WLI/AAAAAAAAFTM/bu9u48WF3UI2NJfgCdbBey-c8P_HsKeZgCLcBGAsYHQ/s1600/1624905002266844-2.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- Now, Tap on <b>SIGN IN, </b>Enter Registered Email, Password and tap on <b>SIGN IN</b></div><div><b><br></b></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-V_W79tAsA5I/YNoVKT0AwuI/AAAAAAAAFTI/k264ca4XN6wH882EBqT2b9gmbrjPTWqjgCLcBGAsYHQ/s1600/1624904998111172-3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-V_W79tAsA5I/YNoVKT0AwuI/AAAAAAAAFTI/k264ca4XN6wH882EBqT2b9gmbrjPTWqjgCLcBGAsYHQ/s1600/1624904998111172-3.png" width="400">
+  </a>
+</div><br></div><div><b>- </b>Tap on <b>≡</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-0ttDK9lxJ1o/YNoVJfYNWoI/AAAAAAAAFTE/wNCUfLMu0JM3G6sLADcwBM3olHumij4oQCLcBGAsYHQ/s1600/1624904993807651-4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-0ttDK9lxJ1o/YNoVJfYNWoI/AAAAAAAAFTE/wNCUfLMu0JM3G6sLADcwBM3olHumij4oQCLcBGAsYHQ/s1600/1624904993807651-4.png" width="400">
+  </a>
+</div><br></b></div><div>- In menu, we have My bots, Store, Libs, Help &amp; <b>SUPPORT CHAT!</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-iL2ZUgKT4ZU/YNoVIfu7zSI/AAAAAAAAFTA/Kj1MZYCqcwYgsqR74-zqPGSk2kGkyuM1wCLcBGAsYHQ/s1600/1624904989363697-5.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-iL2ZUgKT4ZU/YNoVIfu7zSI/AAAAAAAAFTA/Kj1MZYCqcwYgsqR74-zqPGSk2kGkyuM1wCLcBGAsYHQ/s1600/1624904989363697-5.png" width="400">
+  </a>
+</div><br></b></div><div><br></div><div>- In store, we have pre-made functional feature packed bots which you can use.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-EBncnxMVwd8/YNoVHHT60JI/AAAAAAAAFS8/Kc6IAstFJAUWXsS0rWKrSvpvRLAWcvveQCLcBGAsYHQ/s1600/1624904984880610-6.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-EBncnxMVwd8/YNoVHHT60JI/AAAAAAAAFS8/Kc6IAstFJAUWXsS0rWKrSvpvRLAWcvveQCLcBGAsYHQ/s1600/1624904984880610-6.png" width="400">
+  </a>
+</div><br></div><div>- In lib, you have repositories by users and bots.bussines which also can be utilised in your bot projects.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-ADU9SXLZWeo/YNoVGMFsVAI/AAAAAAAAFS4/nLtLLGWnKL4q-zoSRuGdIknIjvS9nUDNACLcBGAsYHQ/s1600/1624904981058915-7.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-ADU9SXLZWeo/YNoVGMFsVAI/AAAAAAAAFS4/nLtLLGWnKL4q-zoSRuGdIknIjvS9nUDNACLcBGAsYHQ/s1600/1624904981058915-7.png" width="400">
+  </a>
+</div><br></div><div>- In home, To create telegram bot tap on <b>NEW BOT</b> to continue further.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-xU-DbRY3Npw/YNoVFAicn7I/AAAAAAAAFS0/hJn1yUcy25gN2Sfc1jrJquVOL0vT_fxRACLcBGAsYHQ/s1600/1624904976301277-8.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-xU-DbRY3Npw/YNoVFAicn7I/AAAAAAAAFS0/hJn1yUcy25gN2Sfc1jrJquVOL0vT_fxRACLcBGAsYHQ/s1600/1624904976301277-8.png" width="400">
+  </a>
+</div><br></div><div>- Enter Your Bot Name, Token, You can add advanced fields of you have idea and now tap on <b>CREATE</b>.<br></div><div><br></div><div><b>+ <a href="https://www.techtracker.in/2021/04/how-to-create-telegram-bot.html">How to create Telegram Bot &amp; generate Token using BotFather for free.</a></b></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-KZNmuYjphXk/YNoVD18HxZI/AAAAAAAAFSw/zgrJessqe60vXlMAmItaManXOFA0GpbJACLcBGAsYHQ/s1600/1624904972112713-9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-KZNmuYjphXk/YNoVD18HxZI/AAAAAAAAFSw/zgrJessqe60vXlMAmItaManXOFA0GpbJACLcBGAsYHQ/s1600/1624904972112713-9.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- Tap on <b>LAUNCH BOT</b></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-aawx2RzGbro/YNoVCwBbwSI/AAAAAAAAFSs/KAn03efZ0HIdWaJ6ZGtoAlRvK8ui1FitQCLcBGAsYHQ/s1600/1624904967505929-10.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-aawx2RzGbro/YNoVCwBbwSI/AAAAAAAAFSs/KAn03efZ0HIdWaJ6ZGtoAlRvK8ui1FitQCLcBGAsYHQ/s1600/1624904967505929-10.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- Tap on <b>EDIT BOT</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-thtsfwRceww/YNoVBtjE6GI/AAAAAAAAFSo/uhUlguT4maMnwtNlpmkAbX8TOg_Us7JkQCLcBGAsYHQ/s1600/1624904962920218-11.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-thtsfwRceww/YNoVBtjE6GI/AAAAAAAAFSo/uhUlguT4maMnwtNlpmkAbX8TOg_Us7JkQCLcBGAsYHQ/s1600/1624904962920218-11.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>In home, you can details of bot name, token etc.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/--1NOUXASz1Q/YNoVAmt6SRI/AAAAAAAAFSk/SR4RlbjiLloydU4etcVogfkRqv4pwemtwCLcBGAsYHQ/s1600/1624904958739964-12.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/--1NOUXASz1Q/YNoVAmt6SRI/AAAAAAAAFSk/SR4RlbjiLloydU4etcVogfkRqv4pwemtwCLcBGAsYHQ/s1600/1624904958739964-12.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- Next, Tap on <b>NEW COMMAND&nbsp;</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-a3zDNwsgve8/YNoU_Wl2gHI/AAAAAAAAFSg/Xyhwy9s82fUOxO6E24x_9zrun35ia0mOACLcBGAsYHQ/s1600/1624904953419163-13.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-a3zDNwsgve8/YNoU_Wl2gHI/AAAAAAAAFSg/Xyhwy9s82fUOxO6E24x_9zrun35ia0mOACLcBGAsYHQ/s1600/1624904953419163-13.png" width="400">
+  </a>
+</div><br></b></div><div><br></div><div>- Enter custom command Name, Answer, Aliases, Help, Keyboard, Allowed only for group and scroll down.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-hkbntHvfNgc/YNoU-NcqbdI/AAAAAAAAFSc/i1zm-53ynF8zWl4bZPe5E3xrMvpO2kzLQCLcBGAsYHQ/s1600/1624904949146659-14.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-hkbntHvfNgc/YNoU-NcqbdI/AAAAAAAAFSc/i1zm-53ynF8zWl4bZPe5E3xrMvpO2kzLQCLcBGAsYHQ/s1600/1624904949146659-14.png" width="400">
+  </a>
+</div><br></div><div>- You can enable ✓ Wait for answer, EDIT BJS, Auto retry time in seconds, change folder and tap on <b>SAVE</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-jV_9O5nhQZ0/YNoU9Jz4HtI/AAAAAAAAFSY/bTJCsW6iMXIRFWKRk0eIyEjtlVn4yJGywCLcBGAsYHQ/s1600/1624904944372838-15.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-jV_9O5nhQZ0/YNoU9Jz4HtI/AAAAAAAAFSY/bTJCsW6iMXIRFWKRk0eIyEjtlVn4yJGywCLcBGAsYHQ/s1600/1624904944372838-15.png" width="400">
+  </a>
+</div>- </b>Your COMMAND will be saved, you can edit, add&nbsp;<b>NEW COMMAND</b> Easily later or Destroy if required.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-KPBY49A6_QA/YNoU70teGaI/AAAAAAAAFSU/r5XjVK5JKbEgVnxCDhPxK8GfU4wtvN4JwCLcBGAsYHQ/s1600/1624904939739315-16.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-KPBY49A6_QA/YNoU70teGaI/AAAAAAAAFSU/r5XjVK5JKbEgVnxCDhPxK8GfU4wtvN4JwCLcBGAsYHQ/s1600/1624904939739315-16.png" width="400">
+  </a>
+</div><br></div><div>- Next, In Admin panel Tap on Add it to Add Additional Admins.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-RgoTJy-55dE/YNoU6kPVI2I/AAAAAAAAFSQ/N-4kgs9vbzcoztfnpL9PRuCq8V_zQ-zQgCLcBGAsYHQ/s1600/1624904934756263-17.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-RgoTJy-55dE/YNoU6kPVI2I/AAAAAAAAFSQ/N-4kgs9vbzcoztfnpL9PRuCq8V_zQ-zQgCLcBGAsYHQ/s1600/1624904934756263-17.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- Next, You can upload commands, make bot copy, download in zip file.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-964PxjNNr4U/YNoU5cIaBSI/AAAAAAAAFSM/C_w9dTrR9Fca2BMseaceXBh-5dBGFUTqwCLcBGAsYHQ/s1600/1624904929580175-18.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-964PxjNNr4U/YNoU5cIaBSI/AAAAAAAAFSM/C_w9dTrR9Fca2BMseaceXBh-5dBGFUTqwCLcBGAsYHQ/s1600/1624904929580175-18.png" width="400">
+  </a>
+</div><br></div><div>- Next, you can access users chat with your bot created through bots.business.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-izc5C4UoQT8/YNoU4DaHSEI/AAAAAAAAFSI/JSi1T44I_wMJ0NAriSypCx6boUDELO-CwCLcBGAsYHQ/s1600/1624904924228632-19.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-izc5C4UoQT8/YNoU4DaHSEI/AAAAAAAAFSI/JSi1T44I_wMJ0NAriSypCx6boUDELO-CwCLcBGAsYHQ/s1600/1624904924228632-19.png" width="400">
+  </a>
+</div><br></div><div>- Next, You can check properties of your bot.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-hLpC3f5YLgg/YNoU2678hAI/AAAAAAAAFSE/IVANWW-86vAwYe1jZklFevkvcetesEnWACLcBGAsYHQ/s1600/1624904918812233-20.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-hLpC3f5YLgg/YNoU2678hAI/AAAAAAAAFSE/IVANWW-86vAwYe1jZklFevkvcetesEnWACLcBGAsYHQ/s1600/1624904918812233-20.png" width="400">
+  </a>
+</div><br></div><div>- Next, You can check errors.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-cnxyJlsAqyA/YNoU1apunII/AAAAAAAAFSA/9YJpa3Y612or6NsI_6E5fTgMEbqTl6lLwCLcBGAsYHQ/s1600/1624904910850562-21.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-cnxyJlsAqyA/YNoU1apunII/AAAAAAAAFSA/9YJpa3Y612or6NsI_6E5fTgMEbqTl6lLwCLcBGAsYHQ/s1600/1624904910850562-21.png" width="400">
+  </a>
+</div><br></div><div><br></div><div><br></div><div>- After doing all in bot settings go back to home, here you will find your bots, tap on them to modify or else tap on NEW BOT to add another one.</div><div><br></div><div><b>Perfecto</b>, You successfully sign up and learned to create advanced telegram bot using bots.business.</div><div><br></div><div>Atlast, Bots.Bussines done incredible work they simplified the process of creating telegram bot online it is convenient, simple and easy, due to that now you can now easily create and develop advanced Telegram bot online for free using bots.bussines bot development platform without coding in minutes, you just need internet connection, common sense, interest to gain knowledge, that's it.<br></div><div><br></div><div>Overall, Bots.Bussines is simple, clean, quick fast, newbie friendly it is very easy to use due to its simple user interface that gives clean user experience packed with the required features but we have to wait &amp; see will Bot.Business get any major UI upgrades in future to make it even more better, as of now bots.business web app and web version feels fabulous that give perfect user interface and user experience which you may like to use for sure.<br></div><div><br></div><div>Moreover, it is worth to state Bots.Business is one of the very few bot development platforms that provide most needed features for free but they even have pro paid plans for required users for additional benefits and features, however free plan of bots.business is good due to its easy free bot creation process it has more advantage to gain users over other paid bit difficult bot development platforms which is major prospect.</div><div><br></div><div>Indeed so, if you are searching for a free bot development platform to create and develop telegram bot without coding that that is very easy to use and understand then we suggest you to prefer and choose Bots.Business it is an excellent choice that has potential to become your new favorite.<br></div><div><br></div><div>- <b>Paid Plans Pricing</b> : <a href="https://bots.business/">Here</a></div><div><br></div><div>Finally<b>,&nbsp;</b>This is Bots.Business, one of the best and free bot development platform to create and develop advanced telegram bot online without coding in minutes, so, do you like it? If you are an existing user of Bots.Business then do say your experience and reason why do you like Bots.Business in our comment section below, see ya :)</div>
+<!-- no comments on this post -->

@@ -1,0 +1,79 @@
+---
+title:		"How to create an online store under 1 minute in india using NDHGO."
+date:		2022-02-01 23:42:00
+updated:	2022-02-01 23:42:54
+tags: 
+  - How
+  - India
+  - NDHGO
+  - Online Store
+  - technology	
+permalink:	https://www.techtracker.in/2022/02/how-to-create-online-store-under-1.html
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-1wk8qK4R9Ow/Yfl4IiICQaI/AAAAAAAAI8g/HKqP-qkti_Y9PDj3ub_IHSYoSpPMJxy9QCNcBGAsYHQ/s1600/1643739166396843-0.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-1wk8qK4R9Ow/Yfl4IiICQaI/AAAAAAAAI8g/HKqP-qkti_Y9PDj3ub_IHSYoSpPMJxy9QCNcBGAsYHQ/s1600/1643739166396843-0.png" width="400">
+  </a>
+</div><div><br></div><div>In india, online stores are not popular, most of the businesses run through offline stores, but when covid-19 pandemic expanded to india, bussines owners has no choice other then to create online store to get profits and recover losses occurred due to lock downs, mainly small bussines owners who run local stores has severely effected due to co-vid and they also shown interest to start online stores.</div><div><br></div><div>Online stores are very common in developed countries like united states and united kingdom but in india majority of business owners don't know how to create online stores, so india bussines owners out of necessity and emergency of online store they started hiring freelancers to create and setup online store.</div><div><br></div><div>In order to create online store for your business you need to have custom domain and hosting with best online store theme, and to setup all these you must have some knowledge on how online stores work, so if you're unable to setup online store for bussines by yourself then you have to hire freelancers which can cost extra money.</div><div><br></div><div>Usually, small business owners don't show interest to start online store as they have to pay for custom domain and hosting every year, and they have hire free lancers, this is pretty big investment for them and the success of online store is based on numerous factors, how ever there are many platforms available in india where you can create a online store for free.</div><div><br></div><div>Even though, only after co-vid pandemic online stores are created in large scale but online stores do existed in india, how ever only few bussines owners able to reap benefits of online store, now every one small and large bussines owners can setup an online store in india under 5 minutes for free using online store creating platforms.</div><div><br></div><div>We have many amazing online store creating apps and websites available in india and they gone through alot of improvements and updates to satisfy every bussines owners in times of co-vid, if you're searching for best platform to create online store then you're at right spot we will now show you how to create an online store under 1 minute using NDHGO app, so are you ready? If yes let's know little more about it before we register and explore more.</div><div><br></div><div><b>• NDHGO official support •</b></div><div><b><br></b></div><div>- <a href="https://www.facebook.com/ndhgo">Facebook</a></div><div>- <a href="https://twitter.com/ndhgoapp">Twitter</a></div><div>- <a href="https://www.youtube.com/channel/UCT3nAFipmYhTdCNEyWJX79A">YouTube</a></div><div>- <a href="https://in.linkedin.com/company/nextdoorhub">LinkedIn</a></div><div>- <a href="https://www.instagram.com/ndhgo/">Instagram</a></div><div><b><br></b></div><div><b>Email : </b><a href="mailto:mail@ndhgo.com">mail@ndhgo.com</a></div><div><b>Website :</b> <a href="http://ndhgo.com">ndhgo.com</a></div><div><b><br></b></div><div><b>• How to download NDHGO •</b></div><div><br></div><div>It is very easy to download NDHGO from these platforms for free.</div><div><br></div><div>- <a href="https://play.google.com/store/apps/details?id=com.nextdoorhub">Google Play</a> / <a href="https://apps.apple.com/in/app/ndhgo/id1438955605">App store</a></div><div><br></div><div><b>• How to create an online store in india under 1 minute using NDHGO •</b></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-Sib-vpu6wok/Yfl4HlaoqPI/AAAAAAAAI8Y/zc8tFdYKIJwXXgKSYmlF_FAOTZf_xyXEwCNcBGAsYHQ/s1600/1643739162667580-1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-Sib-vpu6wok/Yfl4HlaoqPI/AAAAAAAAI8Y/zc8tFdYKIJwXXgKSYmlF_FAOTZf_xyXEwCNcBGAsYHQ/s1600/1643739162667580-1.png" width="400">
+  </a>
+</div><br></div><div>- Open NDHGO app</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-D8OYD392Rcw/Yfl4G6CgswI/AAAAAAAAI8U/hGPPpeXqG5gRLS3WQcQopTB2xsiNRkaVACNcBGAsYHQ/s1600/1643739158687246-2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-D8OYD392Rcw/Yfl4G6CgswI/AAAAAAAAI8U/hGPPpeXqG5gRLS3WQcQopTB2xsiNRkaVACNcBGAsYHQ/s1600/1643739158687246-2.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- Tap on <b>I'm a Seller</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-IF7i2SMmJ_M/Yfl4FlvR1oI/AAAAAAAAI8Q/JX4O4HMyfB0SA-dUExahomuV5aL7JcbCQCNcBGAsYHQ/s1600/1643739154449526-3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-IF7i2SMmJ_M/Yfl4FlvR1oI/AAAAAAAAI8Q/JX4O4HMyfB0SA-dUExahomuV5aL7JcbCQCNcBGAsYHQ/s1600/1643739154449526-3.png" width="400">
+  </a>
+</div><br></b></div><div>- Tap on <b>Start Selling Now</b></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-a3OZqLwswuU/Yfl4EvmJTFI/AAAAAAAAI8M/oPNwtLILFqUkT-ZgqNJ8ZtJlMDOzXzLBwCNcBGAsYHQ/s1600/1643739150333434-4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-a3OZqLwswuU/Yfl4EvmJTFI/AAAAAAAAI8M/oPNwtLILFqUkT-ZgqNJ8ZtJlMDOzXzLBwCNcBGAsYHQ/s1600/1643739150333434-4.png" width="400">
+  </a>
+</div><br></div><div>- Enter your phone number and tap on <b>Next</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-OknpHMZmbTY/Yfl4Di9gEFI/AAAAAAAAI8I/njAGskptzyEISm1Ns3pksGlmxrNTNoqrgCNcBGAsYHQ/s1600/1643739146259052-5.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-OknpHMZmbTY/Yfl4Di9gEFI/AAAAAAAAI8I/njAGskptzyEISm1Ns3pksGlmxrNTNoqrgCNcBGAsYHQ/s1600/1643739146259052-5.png" width="400">
+  </a>
+</div></b><br></div><div>- You will receive 4 digital OTP to your mobile number, check it and enter here then tap on <b>Verify</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-vMePKjpJsUY/Yfl4CkuMd6I/AAAAAAAAI8E/x-RBf2QxOooUi1K4KOa3tfKcNTQls148ACNcBGAsYHQ/s1600/1643739141960738-6.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-vMePKjpJsUY/Yfl4CkuMd6I/AAAAAAAAI8E/x-RBf2QxOooUi1K4KOa3tfKcNTQls148ACNcBGAsYHQ/s1600/1643739141960738-6.png" width="400">
+  </a>
+</div><br></b></div><div>- Enter your Full name, Email then tap on <b>Register</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-qt8lnaI74l4/Yfl4BuSxroI/AAAAAAAAI8A/bg8LkBc_SoclirKPFWeob-SNmZprQzk6gCNcBGAsYHQ/s1600/1643739137752329-7.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-qt8lnaI74l4/Yfl4BuSxroI/AAAAAAAAI8A/bg8LkBc_SoclirKPFWeob-SNmZprQzk6gCNcBGAsYHQ/s1600/1643739137752329-7.png" width="400">
+  </a>
+</div><br></b></div><div>- Select your business type then tap on <b>Continue</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-zsPVV9CIbWs/Yfl4AseB78I/AAAAAAAAI78/kYulrLNXrpgGrP0UjFy2EKrR3txO4SOVACNcBGAsYHQ/s1600/1643739133717871-8.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-zsPVV9CIbWs/Yfl4AseB78I/AAAAAAAAI78/kYulrLNXrpgGrP0UjFy2EKrR3txO4SOVACNcBGAsYHQ/s1600/1643739133717871-8.png" width="400">
+  </a>
+</div><br></b></div><div>- Upload store logo, Enter store name, Choose store address then tap on <b>Create store now.</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-THx5DmWXoC8/Yfl3_eOGEtI/AAAAAAAAI74/EwpOsVtHPmI9srMBlqadFwQM7-bIOTFBwCNcBGAsYHQ/s1600/1643739129650801-9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-THx5DmWXoC8/Yfl3_eOGEtI/AAAAAAAAI74/EwpOsVtHPmI9srMBlqadFwQM7-bIOTFBwCNcBGAsYHQ/s1600/1643739129650801-9.png" width="400">
+  </a>
+</div><br></b></div><div>- Congratulations, your store is successfully created.</div><div><br></div><div>-&nbsp; tap on <b>Go to Seller Panel</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-Xyb2lEmQy6w/Yfl3-cslTpI/AAAAAAAAI70/Zuo7JuBlHXATg10hTqDE7HqYzCVC1Rg3ACNcBGAsYHQ/s1600/1643739125196576-10.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-Xyb2lEmQy6w/Yfl3-cslTpI/AAAAAAAAI70/Zuo7JuBlHXATg10hTqDE7HqYzCVC1Rg3ACNcBGAsYHQ/s1600/1643739125196576-10.png" width="400">
+  </a>
+</div><br></b></div><div><b><br></b></div><div>- In home, tap on <b>COMPLETE NOW</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-fJ2oL5ep6oI/Yfl39RyFGDI/AAAAAAAAI7w/U2dquu1cIkIjzlH5SYYhRg4JiHEyrT7eACNcBGAsYHQ/s1600/1643739120888513-11.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-fJ2oL5ep6oI/Yfl39RyFGDI/AAAAAAAAI7w/U2dquu1cIkIjzlH5SYYhRg4JiHEyrT7eACNcBGAsYHQ/s1600/1643739120888513-11.png" width="400">
+  </a>
+</div><br></b></div><div><br></div><div>- Now, add product, link your bank account, and share your online store.</div><div><br></div><div>- once done, Go back.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-71-XODQbT_I/Yfl38BA6BUI/AAAAAAAAI7s/p9dyKoJEzf0JLccYzu7aR93Fi5U74RnjgCNcBGAsYHQ/s1600/1643739116496429-12.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-71-XODQbT_I/Yfl38BA6BUI/AAAAAAAAI7s/p9dyKoJEzf0JLccYzu7aR93Fi5U74RnjgCNcBGAsYHQ/s1600/1643739116496429-12.png" width="400">
+  </a>
+</div><br></div><div>- In POS, you can create links and request payments.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-TqKpKBM89hQ/Yfl37A6DGkI/AAAAAAAAI7o/wRMxkz9TjpIeoQcKAgnhzAJbZIpITfJuACNcBGAsYHQ/s1600/1643739112293803-13.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-TqKpKBM89hQ/Yfl37A6DGkI/AAAAAAAAI7o/wRMxkz9TjpIeoQcKAgnhzAJbZIpITfJuACNcBGAsYHQ/s1600/1643739112293803-13.png" width="400">
+  </a>
+</div>&nbsp;</div><div>- In order, you can check pending orders.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-rQMy7c-W7ew/Yfl36NZax5I/AAAAAAAAI7k/8XACPNqWliYCIqFifOsIohPRCb1V-TcTACNcBGAsYHQ/s1600/1643739107969985-14.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-rQMy7c-W7ew/Yfl36NZax5I/AAAAAAAAI7k/8XACPNqWliYCIqFifOsIohPRCb1V-TcTACNcBGAsYHQ/s1600/1643739107969985-14.png" width="400">
+  </a>
+</div><br></div><div>- In Poduct, you can add products to your online store.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-Nw0Ga6v98GA/Yfl344mdq-I/AAAAAAAAI7g/pkb90Lx7B_ECMTV9gAK6KBDhsK7TudH-gCNcBGAsYHQ/s1600/1643739072540656-15.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-Nw0Ga6v98GA/Yfl344mdq-I/AAAAAAAAI7g/pkb90Lx7B_ECMTV9gAK6KBDhsK7TudH-gCNcBGAsYHQ/s1600/1643739072540656-15.png" width="400">
+  </a>
+</div><br></div><div>- In store, yoy can edit your online store website, payment and deliver settings and many more.</div><div><br></div><div>Atlast, this are just highlighted features of NDHGO there may be many hidden features in-build that provides you external benefits to give the ultimate usage experience, so if you want one of the best app to create online store in india then NDHGO is worthy choice.</div><div><br></div><div>Overall, NDHGO comes with light mode by default, it has well designed intuitive interface that ensures user friendly experience, but in any project there is always space for improvement so let's wait and see will NDHGO get any major UI changes in future to make it even more better, as of now NDHGO is nice.</div><div><br></div><div>Moreover, it is definitely worth to mention NDHGO is mobile ready and comes with 24 hr customer support for your business, and according to google play NDHGO is India's rising app to create online store easily for free, yes Indeed if you're searching for such app then NDHGO has potential to become your new favorite,&nbsp;</div><div><br></div><div>Finally, this is how NDHGO enables your large and small business go online in less then minute, are you an existing user of NDHGO? If yes do say your experience with NDHGO and mention which feature you like the most in our comment section below, see ya :)</div>
+<!-- no comments on this post -->

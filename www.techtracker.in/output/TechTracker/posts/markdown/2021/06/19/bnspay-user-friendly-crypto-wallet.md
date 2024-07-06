@@ -1,0 +1,117 @@
+---
+title:		"BnsPay - Best User Friendly Crypto Wallet &amp;  Trading App On Android &amp; iOS For Free."
+date:		2021-06-19 18:26:00
+updated:	2021-06-24 14:05:17
+tags: 
+  - Apps
+  - BnsPay
+  - Crypto Wallet
+  - Trading App
+  - User Friendly	
+permalink:	https://www.techtracker.in/2021/06/bnspay-user-friendly-crypto-wallet.html
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-02rATpLrdTg/YM3pjbLi99I/AAAAAAAAFEA/yUUi1phJ8jko1zB20FcEtnRHjm8JSo-2gCLcBGAsYHQ/s1600/1624107401907224-0.png" imageanchor="1" style=" margin-right: 1em;margin-left: 1em;"><img border="0" src="https://lh3.googleusercontent.com/-02rATpLrdTg/YM3pjbLi99I/AAAAAAAAFEA/yUUi1phJ8jko1zB20FcEtnRHjm8JSo-2gCLcBGAsYHQ/s1600/1624107401907224-0.png" width="400" class="  " height="224" title="BnsPay - Best User Friendly Crypto Wallet &amp;  Trading App On Android &amp; iOS For Free." alt="BnsPay - Best User Friendly Crypto Wallet &amp;  Trading App On Android &amp; iOS For Free."></a>
+</div><div><br></div><div>Do you mine or trade crypto curreny's? then you probably know how much it worth as per your analysis, but if you are mining or trading any crypto currency then you may already own crypto currency wallet and trading app or you are in-search of new crypto&nbsp;wallet and trading app which can securely store all of your property of crypto currencies right?</div><div><br></div><div>But, do note the point not every wallet support all crypto currencies you must use different type of wallets for various types of virtual crypto currencies due to different type of technologies used to create certain virtual crypto currencies which only supported by some wallets and some trading apps not support all coins due to that you may face issues.<br></div><div><br></div><div>In this scenario, we need good &amp; secure crypto wallet and trading app which support to store and trade most virtual crypto currencies out there and give you best user interface &amp; user experience in every corner of app usage so, it is little hard to find such crypto wallet &amp; trading due to enormous amount of crypto wallets available in this digital world.&nbsp;<br></div><div><br></div><div>Yes, but we found simple yet amazing secured easy to use crypto wallet and trading app which you can rely upon named BnsPay it is one of the best crypto currency wallet available in play store that can present you good &amp; clean user experience that you may surely like.<br></div><div><br></div><div>• <b>BnsPay Official Support •</b></div><div><br></div><div>- <a href="https://www.facebook.com/bitbns/">Facebook</a></div><div>- <a href="https://twitter.com/bitbns/">Twitter</a></div><div>- <a href="https://t.me/Bitbns">Telegram</a></div><div>- <a href="https://www.reddit.com/r/Bitbns/">Reddit</a></div><div>- <a href="https://medium.com/bitbns">Medium</a></div><div>- <a href="https://www.coingecko.com/en/exchanges/bitbns">Coingecko</a></div><div>- <a href="https://www.youtube.com/c/Bitbns?sub_confirmation=1">YouTube</a></div><div>- <a href="https://www.instagram.com/bitbns/">Instagram</a></div><div><br></div><div>Email : <a href="mailto:g@bitbns.com">g@bitbns.com</a></div><div><br></div><div>Website: <a href="http://bitbns.com">bitbns.com</a></div><div><br></div><div>- <b>App Info</b> - <a href="https://play.google.com/store/apps/details?id=com.bitbnspay">Google Play </a>/ <a href="https://itunes.apple.com/in/app/bitbns-crypto-trading-exchange/id1346160076?mt=8">App Store</a></div><div><br></div><div>• <b>How to download BnsPay •</b></div><div><br></div><div>It is very easy to download BnsPay from these platforms for free.</div><div><br></div><div>- <a href="https://play.google.com/store/apps/details?id=com.bitbns&amp;referrer=utm_source%253DbitbnsTradeFtr%2526utm_medium%253Dwebsite">Google Play</a> / <a href="https://itunes.apple.com/in/app/bitbns-crypto-trading-exchange/id1346160076?mt=8">App Store</a></div><div><br></div><div>• <b>BnsPay Key features with UI / UX Overview •</b></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-wrVkAVkr5r4/YM3piT_UQmI/AAAAAAAAFD8/DJ2zIVSogloGi2WAebQzVKxzmt1Roqm_ACLcBGAsYHQ/s1600/1624107397804643-1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-wrVkAVkr5r4/YM3piT_UQmI/AAAAAAAAFD8/DJ2zIVSogloGi2WAebQzVKxzmt1Roqm_ACLcBGAsYHQ/s1600/1624107397804643-1.png" width="400">
+  </a>
+</div><br></div><div>- In crypto, check crypto coin daily, weekly, monthly annual graph, SHOW CRYPTO and SCAN QR, BUY/SELL OR PAY crypto coins.</div><div><br></div><div>- Tap on BUY/SELL</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-2CmJEnrFeos/YM3phVUCwGI/AAAAAAAAFD4/gwlB-u_p0kUsTyykEvYqOARKhXV7DEMCgCLcBGAsYHQ/s1600/1624107393923652-2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-2CmJEnrFeos/YM3phVUCwGI/AAAAAAAAFD4/gwlB-u_p0kUsTyykEvYqOARKhXV7DEMCgCLcBGAsYHQ/s1600/1624107393923652-2.png" width="400">
+  </a>
+</div><br></div><div>- In BnsPay, They have Bitcoin, Ethereum, Doge, Shib Inu, Ripple, Bitbns Token, Cardano, Polkadot, Binance Coin currently they may add more coin support soon.</div><div><br></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-oJ3ykb_Ab6M/YM3pgUoppcI/AAAAAAAAFD0/kBeAPLhEE-oSCxjLkKhlcNUMBASuxL3jgCLcBGAsYHQ/s1600/1624107389865252-3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-oJ3ykb_Ab6M/YM3pgUoppcI/AAAAAAAAFD0/kBeAPLhEE-oSCxjLkKhlcNUMBASuxL3jgCLcBGAsYHQ/s1600/1624107389865252-3.png" width="400">
+  </a>
+</div><br></div><div>- In portfolio, you can buy available crypto coins or add INR from bank&nbsp; or from crypto wallet to BnsPay.</div><div><br></div><div>- Tap on + ADD MONEY / WITHDRAW</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-0V-z9hoWC0c/YM3pfRNqP-I/AAAAAAAAFDw/d7BG3XmIEyUd6CLxZHOqFo1wjQ71mef9wCLcBGAsYHQ/s1600/1624107386030156-4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-0V-z9hoWC0c/YM3pfRNqP-I/AAAAAAAAFDw/d7BG3XmIEyUd6CLxZHOqFo1wjQ71mef9wCLcBGAsYHQ/s1600/1624107386030156-4.png" width="400">
+  </a>
+</div><br></div><div>- You can Add Money via UPI / IMPS</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-xqpRxWqO-Ww/YM3peQcDnwI/AAAAAAAAFDs/Xp6EulBTeMIIWTUedLaz6QkmONKrfHQrACLcBGAsYHQ/s1600/1624107382211786-5.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-xqpRxWqO-Ww/YM3peQcDnwI/AAAAAAAAFDs/Xp6EulBTeMIIWTUedLaz6QkmONKrfHQrACLcBGAsYHQ/s1600/1624107382211786-5.png" width="400">
+  </a>
+</div><br></div><div>- You can withdraw money to added Bank Account ( KYC verification compulsory ) do check Notes for more details.&nbsp;</div><div><br></div><div><br></div><div>• <b>How to register on BnsPay </b>•</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-cBeYAX1bmtI/YM3pdT-7elI/AAAAAAAAFDo/gtM9MQyr1sMMMYBwtn5H-Klj0r-b31amACLcBGAsYHQ/s1600/1624107378213988-6.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-cBeYAX1bmtI/YM3pdT-7elI/AAAAAAAAFDo/gtM9MQyr1sMMMYBwtn5H-Klj0r-b31amACLcBGAsYHQ/s1600/1624107378213988-6.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- Open BnsPay, Enter your Phone Number And Tap on CONTINUE.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-mAb115r3iP0/YM3pcTUo97I/AAAAAAAAFDk/Bo6kA9Nvyr0QEA2oFMxdZc5vsG3BmtuswCLcBGAsYHQ/s1600/1624107373978395-7.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-mAb115r3iP0/YM3pcTUo97I/AAAAAAAAFDk/Bo6kA9Nvyr0QEA2oFMxdZc5vsG3BmtuswCLcBGAsYHQ/s1600/1624107373978395-7.png" width="400">
+  </a>
+</div><br></div><div>- Enter the OTP sent to your phone number and Tap on CONFIRM OTP -&gt;</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-l6xLifjavc8/YM3pbcYnfLI/AAAAAAAAFDc/rbXTgdJzWuY1-gQOg4wJkL1pvf5GEfVaQCLcBGAsYHQ/s1600/1624107369736994-8.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-l6xLifjavc8/YM3pbcYnfLI/AAAAAAAAFDc/rbXTgdJzWuY1-gQOg4wJkL1pvf5GEfVaQCLcBGAsYHQ/s1600/1624107369736994-8.png" width="400">
+  </a>
+</div><br></div><div>- Enter a PINCODE to secure your transactions.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-JnW7Dw0uF2A/YM3paWddsnI/AAAAAAAAFDY/2XqxguQRpuEc8Tl5Xj7jhxDCyuBzrgEgQCLcBGAsYHQ/s1600/1624107365576106-9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-JnW7Dw0uF2A/YM3paWddsnI/AAAAAAAAFDY/2XqxguQRpuEc8Tl5Xj7jhxDCyuBzrgEgQCLcBGAsYHQ/s1600/1624107365576106-9.png" width="400">
+  </a>
+</div><br></div><div>- Re-Enter&nbsp;&amp;&nbsp;Confirm Your PIN Code.</div><div><br></div><div>Superb!, You successfully registered on BnsPay.</div><div><br></div><div>• How to verify KYC Status on BnsPay •</div><div><br></div><div><br></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-dl_UktEaTB0/YM3pZMcY2II/AAAAAAAAFDU/D6GT0oXHmL8xRGQfC11EVyBwVUbjamEzQCLcBGAsYHQ/s1600/1624107361199781-10.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-dl_UktEaTB0/YM3pZMcY2II/AAAAAAAAFDU/D6GT0oXHmL8xRGQfC11EVyBwVUbjamEzQCLcBGAsYHQ/s1600/1624107361199781-10.png" width="400">
+  </a>
+</div><br></div><div>- You can trade crypto currencies without KYC but to withdraw in INR you must need to complete KYC.</div><div><br></div><div>- Tap on KYC Status ( UNVERIFIED )</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-TaN33Hxu9Wo/YM3pYMVqA_I/AAAAAAAAFDQ/sOzP4PzEooE7rWIXjz28C9qrCtYJkkl4ACLcBGAsYHQ/s1600/1624107357184425-11.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-TaN33Hxu9Wo/YM3pYMVqA_I/AAAAAAAAFDQ/sOzP4PzEooE7rWIXjz28C9qrCtYJkkl4ACLcBGAsYHQ/s1600/1624107357184425-11.png" width="400">
+  </a>
+</div><br></div><div>- Tap on TAKE SELFIE</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-9F2mHKUsraU/YM3pXN6rKsI/AAAAAAAAFDM/xuTVlttTBiki64QNTwvOIiOPqk8ltcOMwCLcBGAsYHQ/s1600/1624107352871187-12.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-9F2mHKUsraU/YM3pXN6rKsI/AAAAAAAAFDM/xuTVlttTBiki64QNTwvOIiOPqk8ltcOMwCLcBGAsYHQ/s1600/1624107352871187-12.png" width="400">
+  </a>
+</div><br></div><div>- Tap on Continue, Capture &amp; Submit.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-MRbAUVpuBfk/YM3pWNbpFUI/AAAAAAAAFDI/c4XO-r9ncQo6r_o77EEW53pRlDka2zd-ACLcBGAsYHQ/s1600/1624107348586794-13.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-MRbAUVpuBfk/YM3pWNbpFUI/AAAAAAAAFDI/c4XO-r9ncQo6r_o77EEW53pRlDka2zd-ACLcBGAsYHQ/s1600/1624107348586794-13.png" width="400">
+  </a>
+</div><br></div><div>- Tap on UPLOAD PAN&nbsp;</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-tZ3gw0uVaqY/YM3pU4I-8WI/AAAAAAAAFDE/-vkPmOu5LOoT4b3Xvj_vARoqVaTR-sCxgCLcBGAsYHQ/s1600/1624107344375378-14.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-tZ3gw0uVaqY/YM3pU4I-8WI/AAAAAAAAFDE/-vkPmOu5LOoT4b3Xvj_vARoqVaTR-sCxgCLcBGAsYHQ/s1600/1624107344375378-14.png" width="400">
+  </a>
+</div><br></div><div>- Capture Front of Pan Card &amp;&nbsp;Submit</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-p5Vu3-FPmHo/YM3pT_y5hUI/AAAAAAAAFDA/cPg37R3mH9QyU0optfLjt9lr_re99EdkACLcBGAsYHQ/s1600/1624107340102500-15.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-p5Vu3-FPmHo/YM3pT_y5hUI/AAAAAAAAFDA/cPg37R3mH9QyU0optfLjt9lr_re99EdkACLcBGAsYHQ/s1600/1624107340102500-15.png" width="400">
+  </a>
+</div><br></div><div>-&nbsp; Tap on UPLOAD ID PROOF&nbsp;</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-W0XlsGXZUeE/YM3pS1FLrgI/AAAAAAAAFC8/iewfaKFBSXUudRm4OndDw31HyJt2hY-AgCLcBGAsYHQ/s1600/1624107335904949-16.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-W0XlsGXZUeE/YM3pS1FLrgI/AAAAAAAAFC8/iewfaKFBSXUudRm4OndDw31HyJt2hY-AgCLcBGAsYHQ/s1600/1624107335904949-16.png" width="400">
+  </a>
+</div><br></div><div>- Tap on Aadhaar or Voter ID only, if you have Passport and if you want to use it you can choose passport to.</div><div><br></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-Qyryxn0_QLw/YM3pRhXC4jI/AAAAAAAAFC4/RAMvu5PaUo8o6fON0HFFG8DsJdVQiab8QCLcBGAsYHQ/s1600/1624107331674912-17.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-Qyryxn0_QLw/YM3pRhXC4jI/AAAAAAAAFC4/RAMvu5PaUo8o6fON0HFFG8DsJdVQiab8QCLcBGAsYHQ/s1600/1624107331674912-17.png" width="400">
+  </a>
+</div><br></div><div>- Capture Front &amp; Back Address of Your Aaadhar Card, if you used passport then just capture front side of it.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-qYo-FdDHukI/YM3pQvnTuNI/AAAAAAAAFC0/89jrRsJAkjMRqfaNfkFl161CZXc6IE9pgCLcBGAsYHQ/s1600/1624107327224428-18.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-qYo-FdDHukI/YM3pQvnTuNI/AAAAAAAAFC0/89jrRsJAkjMRqfaNfkFl161CZXc6IE9pgCLcBGAsYHQ/s1600/1624107327224428-18.png" width="400">
+  </a>
+</div><br></div><div>- Tap on Submit Verification</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-H48JuCkCeok/YM3pPiy66XI/AAAAAAAAFCw/lw2AUfouvXQCZG6q8FxUSj7QJK61sEIiACLcBGAsYHQ/s1600/1624107323061395-19.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-H48JuCkCeok/YM3pPiy66XI/AAAAAAAAFCw/lw2AUfouvXQCZG6q8FxUSj7QJK61sEIiACLcBGAsYHQ/s1600/1624107323061395-19.png" width="400">
+  </a>
+</div><br></div><div>- Your KYC Submitted Successfully.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-iF0POyTd9Cg/YM3pOgploaI/AAAAAAAAFCs/ovmPg99WwWQBjzCMtOxztFv0MAsLI91FwCLcBGAsYHQ/s1600/1624107318932265-20.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-iF0POyTd9Cg/YM3pOgploaI/AAAAAAAAFCs/ovmPg99WwWQBjzCMtOxztFv0MAsLI91FwCLcBGAsYHQ/s1600/1624107318932265-20.png" width="400">
+  </a>
+</div><br></div><div><br></div><div><br></div><div><br></div><div>- Now, wait until the KYC verification completes, it may take 24 to 48 hours but usually it won't take more then 10 minutes.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-c_9hAWjCD6k/YM3pNcxu4II/AAAAAAAAFCo/IM1eFDSSgjYfLszkImvHpDl1YjgbZK-VACLcBGAsYHQ/s1600/1624107314164700-21.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-c_9hAWjCD6k/YM3pNcxu4II/AAAAAAAAFCo/IM1eFDSSgjYfLszkImvHpDl1YjgbZK-VACLcBGAsYHQ/s1600/1624107314164700-21.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- Wait Untill, You get KYC Successfully Verified with ( ✓ ) Congratulations!</div><div><br></div><div>• <b>How to Add Bank Account on BnsPay •</b></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-pGq2MZugsF4/YM3pMR5halI/AAAAAAAAFCk/2emZ8EkyK6U1sqVlo--b3NVaUqKJl9hugCLcBGAsYHQ/s1600/1624107308642316-22.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-pGq2MZugsF4/YM3pMR5halI/AAAAAAAAFCk/2emZ8EkyK6U1sqVlo--b3NVaUqKJl9hugCLcBGAsYHQ/s1600/1624107308642316-22.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- In profile, Tap on Bank Accounts</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-GAtif4b_Wlo/YM3pLCbHJtI/AAAAAAAAFCg/8BrLEVBjBBcnYyy4vYw6J0fKR3GrdGuuACLcBGAsYHQ/s1600/1624107303753891-23.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-GAtif4b_Wlo/YM3pLCbHJtI/AAAAAAAAFCg/8BrLEVBjBBcnYyy4vYw6J0fKR3GrdGuuACLcBGAsYHQ/s1600/1624107303753891-23.png" width="400">
+  </a>
+</div>- Tap on ADD ACCOUNT</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-96WYKRk9Z-Y/YM3pJqrc8jI/AAAAAAAAFCc/jgrwyvX9_5gtRvCDrj7pBM3s690yIENOgCLcBGAsYHQ/s1600/1624107298174964-24.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-96WYKRk9Z-Y/YM3pJqrc8jI/AAAAAAAAFCc/jgrwyvX9_5gtRvCDrj7pBM3s690yIENOgCLcBGAsYHQ/s1600/1624107298174964-24.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- Enter Account Number, Confirm Account</div><div>Number, IFSC Code, Savings Account, Your Name ( as per account ) Phone Number ( as per account &amp; Tap on SAVE ACCOUNT</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-QxpJvbNF-_0/YM3pIVMUX-I/AAAAAAAAFCY/4MUvq2Mg5VcXZg9Z99p_rddynTt4ckBPgCLcBGAsYHQ/s1600/1624107290711516-25.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-QxpJvbNF-_0/YM3pIVMUX-I/AAAAAAAAFCY/4MUvq2Mg5VcXZg9Z99p_rddynTt4ckBPgCLcBGAsYHQ/s1600/1624107290711516-25.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- You successfully added Bank Account in BnsPay which you can utilise to deposit &amp; trade crypto currencies. Awesome!</div><div><br></div><div>Done, You successfully registered, Verified KYC, Added Bank Account, To store crypto coins and start trading, Enjoy!</div><div><br></div><div>Atlast, BnsPay is simple yet powerful crypto wallet and trading app that is very useful for newbies who just entered crypto world, This are just key features of BnsPay you may get more features soon that makes it even more better, it's has all the features to work as crypto wallet &amp; trading app but the only drawback in BnsPay was they have less crypto coins right now which is definitely a drawback, if they add .more crypto coins as soon as possible then it can gain more audience.<br></div><div><br></div><div>Overall, BnsPay&nbsp;is simple, clean, quick&nbsp; fast, A+ grade security, user friendly crypto wallet and trading app to&nbsp;store &amp; trade crypto currencies money, it is&nbsp;very easy to use due to its simple user interface that gives&nbsp;clean&nbsp;user experience packed with the required features but we have to wait and see will BnsPay&nbsp;get any major UI changes in future to make it even more better, as of now BnsPay have&nbsp;perfect user interface and user experience that you may like to use for&nbsp;sure.&nbsp;</div><div><br></div><div>Moreover, it is worth to mention BnsPay is one of the very few crypto wallet &amp; trading app that provide user friendly experience&nbsp; Indeed so, if you are searching for an user friendly crypto and trading app that is easy to use packed with numerous features then we suggest you to choose&nbsp;BnsPay it</div><div>is an excellent choice that has potential to become your new&nbsp;favorite.&nbsp;</div><div><br></div><div>Finally,&nbsp;This is&nbsp;BnsPay&nbsp;one of the best user friendly crypto wallet and trading app in India for free so, do you like it? If yes are using BnsPay,&nbsp;then do say your experience also mention why you like BnsPay in&nbsp;our comment section below, see ya :)</div>
+<!-- no comments on this post -->

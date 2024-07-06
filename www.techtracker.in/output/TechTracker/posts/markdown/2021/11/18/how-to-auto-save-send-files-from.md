@@ -1,0 +1,159 @@
+---
+title:		"How to auto save & send files from Telegram to Dropbox for free."
+date:		2021-11-18 23:25:00
+updated:	2021-11-18 23:25:14
+tags: 
+  - Dropbox
+  - How
+  - Send
+  - Telegram
+  - technology	
+permalink:	https://www.techtracker.in/2021/11/how-to-auto-save-send-files-from.html
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-QW9hT3i5LF0/YZaTfys0UjI/AAAAAAAAHYs/h3QA8Vm4KV0I40jbk-cbKZbdevGiMbo9QCLcBGAsYHQ/s1600/1637258105740654-0.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-QW9hT3i5LF0/YZaTfys0UjI/AAAAAAAAHYs/h3QA8Vm4KV0I40jbk-cbKZbdevGiMbo9QCLcBGAsYHQ/s1600/1637258105740654-0.png" width="400">
+  </a>
+</div><div><br></div><div><br></div><div>Do you want to auto save and send all your telegram files either available on Telegram channel or group to your dropbox account? If yes then there is not even 1 bot available to do that but still it is possible to send all your telegram files to dropbox account via third party automation service available on internet which can integrate telegram and dropbox using webhook.</div><div><br></div><div>Telegram provides unlimited cloud storage with 2GB file size limit so millions of users store thier files in it but telegram don't give you direct link for the files and telegram is not reliable to use it as backup platform as if you don't login in your telegram account atleast once in year then it will be deleted and all your data stored will be lost which can get you personal and financial losses,&nbsp;</div><div>so, it is very important to save your files in numerous reliable backup platform so you won't get issues later,&nbsp;<br></div><div><br></div><div>In Telegram, there are alot of channels and groups where they share different types of&nbsp; files and it is also well utilised by teachers to create groups and collect assignments from students, but the problem is if they want to backup the assignment or files to reliable backup platform like Dropbox then they have to download each assignment or file and upload it to dropbox which will use alot of network data and tiresome, Isn't it amazing if we can auto save telegram files to dropbox? It will save valuable time.</div><div><br></div><div>In this scenario, we have a workaround we found a easy to use automation platform named pabbly where you can integrate multiple applications and automate tasks, In pabbly you can integrate telegram with dropbox to auto save files from telegram channel or group to dropbox account for free, so do you like it? are you interested in pabbly? If yes then let's know little more info before we sign up and get started.</div><div><br></div><div><b>• Pabbly Official Support •</b></div><div><b><br></b></div><div>- <a href="https://www.facebook.com/groups/formget.deals">Facebook</a></div><div>- <a href="https://www.youtube.com/channel/UCVA5GKy8qpDxQR5xSt_zcJg/featured">YouTube</a></div><div><br></div><div><b>Email : </b><a href="mailto:admin@pabbly.com">admin@pabbly.com</a></div><div><b>Website : </b><a href="http://pabbly.com">pabbly.com</a></div><div><b><br></b></div><div><b>• How to auto save and send files from Telegram to Dropbox using pabbly •</b></div><div><b><br></b></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-TO3QUJz27GE/YZaTeRshiPI/AAAAAAAAHYk/aPKBH_TMYrUX3qBljY5TCWS7P1OFwp4bwCLcBGAsYHQ/s1600/1637258100510125-1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-TO3QUJz27GE/YZaTeRshiPI/AAAAAAAAHYk/aPKBH_TMYrUX3qBljY5TCWS7P1OFwp4bwCLcBGAsYHQ/s1600/1637258100510125-1.png" width="400">
+  </a>
+</div><br></div><div>- Go to <a href="http://pabbly.com">pabbly.com</a>&nbsp;and tap on <b>≡</b></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-IWvlQ6w7fZU/YZaTdA-0KXI/AAAAAAAAHYg/YUTX9QxmzxI7tMmPsPc0J0vaheLLTPb-QCLcBGAsYHQ/s1600/1637258095644822-2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-IWvlQ6w7fZU/YZaTdA-0KXI/AAAAAAAAHYg/YUTX9QxmzxI7tMmPsPc0J0vaheLLTPb-QCLcBGAsYHQ/s1600/1637258095644822-2.png" width="400">
+  </a>
+</div><br></div><div>- Tap on <b>SignUp</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-l7lautGNh8U/YZaTbyXw0TI/AAAAAAAAHYc/Rsx7ml92sXETAo9j1QXWsUdE446iHJO8ACLcBGAsYHQ/s1600/1637258090647297-3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-l7lautGNh8U/YZaTbyXw0TI/AAAAAAAAHYc/Rsx7ml92sXETAo9j1QXWsUdE446iHJO8ACLcBGAsYHQ/s1600/1637258090647297-3.png" width="400">
+  </a>
+</div><br></b></div><div>- You can do manual email signup or use Google signup for automatic login.</div><div><br></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-IEWNa6IEMGc/YZaTakEEatI/AAAAAAAAHYU/bEUoAbiVy3EzoKYynfn80WTx276vDBDvgCLcBGAsYHQ/s1600/1637258081821948-4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-IEWNa6IEMGc/YZaTakEEatI/AAAAAAAAHYU/bEUoAbiVy3EzoKYynfn80WTx276vDBDvgCLcBGAsYHQ/s1600/1637258081821948-4.png" width="400">
+  </a>
+</div><br></div><div>- Once you login, Tap on <b>Access Now</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-U6eEC7ThXiE/YZaTYUqP6GI/AAAAAAAAHYQ/dWlFinuqhmcyUHa17q8de2XzpGNmoLIsACLcBGAsYHQ/s1600/1637258044648415-5.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-U6eEC7ThXiE/YZaTYUqP6GI/AAAAAAAAHYQ/dWlFinuqhmcyUHa17q8de2XzpGNmoLIsACLcBGAsYHQ/s1600/1637258044648415-5.png" width="400">
+  </a>
+</div><br></b></div><div><br></div><div>- Tap on <b>+</b>&nbsp;<b>Create Workflow</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-0Fmyt73qStk/YZaTPNeUqNI/AAAAAAAAHYE/4KVVTRxY028uYClka_goEi3mvi7VHtZVgCLcBGAsYHQ/s1600/1637258029191668-6.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-0Fmyt73qStk/YZaTPNeUqNI/AAAAAAAAHYE/4KVVTRxY028uYClka_goEi3mvi7VHtZVgCLcBGAsYHQ/s1600/1637258029191668-6.png" width="400">
+  </a>
+</div><br></b></div><div>- Enter workflow name and tap on <b>Create</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-RQCxgZw693g/YZaTLIvkPiI/AAAAAAAAHX8/T3G0EJfpB20mWP6t9I8GoqyXBbbOyUcCwCLcBGAsYHQ/s1600/1637258014646754-7.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-RQCxgZw693g/YZaTLIvkPiI/AAAAAAAAHX8/T3G0EJfpB20mWP6t9I8GoqyXBbbOyUcCwCLcBGAsYHQ/s1600/1637258014646754-7.png" width="400">
+  </a>
+</div><br></b></div><div><br></div><div>- In Choose App, Enter Telegram and Tap on <b>Telegram Bot.</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-g2WLA1iqNvc/YZaTHtcTlLI/AAAAAAAAHX4/Mqx9zlFCGaAIj1CCIhDWeacXqoRniVDZACLcBGAsYHQ/s1600/1637258007701012-8.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-g2WLA1iqNvc/YZaTHtcTlLI/AAAAAAAAHX4/Mqx9zlFCGaAIj1CCIhDWeacXqoRniVDZACLcBGAsYHQ/s1600/1637258007701012-8.png" width="400">
+  </a>
+</div><br></b></div><div>- In Trigger Event, Select : <b>Set Webhook / Watch Updates</b>&nbsp;and Tap on <b>Connect</b>.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-_ydlnb5wri4/YZaTF_8y-iI/AAAAAAAAHXs/83-1w9hf2wkpxJ3xjM8PDRiG9xu5v456wCLcBGAsYHQ/s1600/1637257999052257-9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-_ydlnb5wri4/YZaTF_8y-iI/AAAAAAAAHXs/83-1w9hf2wkpxJ3xjM8PDRiG9xu5v456wCLcBGAsYHQ/s1600/1637257999052257-9.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- Select : <b>Add New Connection</b> and Scroll down. It's time for Telegram you need to generate a bot token.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-3msvKpDMkB4/YZaTDryH75I/AAAAAAAAHXo/-FvFIah88S0tP-u0yogga9dJ4deoyBNHACLcBGAsYHQ/s1600/1637257989460705-10.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-3msvKpDMkB4/YZaTDryH75I/AAAAAAAAHXo/-FvFIah88S0tP-u0yogga9dJ4deoyBNHACLcBGAsYHQ/s1600/1637257989460705-10.png" width="400">
+  </a>
+</div><br></div><div>- Go to <a href="https://t.me/BotFather">Botfather</a> telegram bot, and tap on <b>START</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-SRiwfWEfrI0/YZaTBNjjuMI/AAAAAAAAHXk/y0CUjIYl1pY_grZT_FrU6vCLXcdb6Av3QCLcBGAsYHQ/s1600/1637257975704244-11.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-SRiwfWEfrI0/YZaTBNjjuMI/AAAAAAAAHXk/y0CUjIYl1pY_grZT_FrU6vCLXcdb6Av3QCLcBGAsYHQ/s1600/1637257975704244-11.png" width="400">
+  </a>
+</div><br></b></div><div>- Enter and send <b>/newbot</b> command, it will ask you choose a name for bot.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-Jvl5VwV-9gE/YZaS9vR2hEI/AAAAAAAAHXc/gbC4yihYhaAkJhv8nYU1eZkczxu05c4bgCLcBGAsYHQ/s1600/1637257964523291-12.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-Jvl5VwV-9gE/YZaS9vR2hEI/AAAAAAAAHXc/gbC4yihYhaAkJhv8nYU1eZkczxu05c4bgCLcBGAsYHQ/s1600/1637257964523291-12.png" width="400">
+  </a>
+</div><br></div><div>- Enter and send your desired bot name, now it will ask you send username.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-ysvLevsrqxs/YZaS65PiGWI/AAAAAAAAHXU/okosfnuMJm0aKTZgUCERUKXbhXibmIYbgCLcBGAsYHQ/s1600/1637257951972631-13.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-ysvLevsrqxs/YZaS65PiGWI/AAAAAAAAHXU/okosfnuMJm0aKTZgUCERUKXbhXibmIYbgCLcBGAsYHQ/s1600/1637257951972631-13.png" width="400">
+  </a>
+</div><br></div><div>- Send username to botfather with extension Bot or bot for example : <b>TD_Upload_Bot</b>.</div><div><br></div><div>- You will get bot token, just tap on it to copy, once you copied go back to Pabbly.</div><div><br></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-BTtQZKfxWs8/YZaS36i7x7I/AAAAAAAAHXI/zV2fF8iqWVATdjOU5sKcHsM64PZS_ONigCLcBGAsYHQ/s1600/1637257944365577-14.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-BTtQZKfxWs8/YZaS36i7x7I/AAAAAAAAHXI/zV2fF8iqWVATdjOU5sKcHsM64PZS_ONigCLcBGAsYHQ/s1600/1637257944365577-14.png" width="400">
+  </a>
+</div><br></div><div>- Paste your bot token in blank and tap on <b>Save</b>&nbsp;to continue further.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-ahlOj2zIDBI/YZaS17ShHfI/AAAAAAAAHXE/OS4qTuO38Ywarj3Z9gnUNZTPABFhiz2VQCLcBGAsYHQ/s1600/1637257933763806-15.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-ahlOj2zIDBI/YZaS17ShHfI/AAAAAAAAHXE/OS4qTuO38Ywarj3Z9gnUNZTPABFhiz2VQCLcBGAsYHQ/s1600/1637257933763806-15.png" width="400">
+  </a>
+</div><br></div><div>- Now, go back to telegram and create a new group or channel with name of your choice and tap on <b>ADD MEMBERS</b></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-8o24o30zMpU/YZaSzUbhz4I/AAAAAAAAHXA/oNzmL44BImMCnWJajHfetDcyF1oR1bi7wCLcBGAsYHQ/s1600/1637257928487864-16.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-8o24o30zMpU/YZaSzUbhz4I/AAAAAAAAHXA/oNzmL44BImMCnWJajHfetDcyF1oR1bi7wCLcBGAsYHQ/s1600/1637257928487864-16.png" width="400">
+  </a>
+</div><br></div><div>- In search, search for the bot that you created earlier in botfather, once found just tap on it.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-En1DNf9VLAU/YZaSx4YqPAI/AAAAAAAAHW4/oQsg4KaLYco3UtNxZk_B_l2Sm3XvK176wCLcBGAsYHQ/s1600/1637257922108917-17.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-En1DNf9VLAU/YZaSx4YqPAI/AAAAAAAAHW4/oQsg4KaLYco3UtNxZk_B_l2Sm3XvK176wCLcBGAsYHQ/s1600/1637257922108917-17.png" width="400">
+  </a>
+</div><br></div><div>- Tap on <b>✓</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-wpNkPJTkgVU/YZaSwRVJFOI/AAAAAAAAHWw/eiyXRimsBX8QoTnG6UPUuxf5dhcHMfacgCLcBGAsYHQ/s1600/1637257915580808-18.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-wpNkPJTkgVU/YZaSwRVJFOI/AAAAAAAAHWw/eiyXRimsBX8QoTnG6UPUuxf5dhcHMfacgCLcBGAsYHQ/s1600/1637257915580808-18.png" width="400">
+  </a>
+</div><br></b></div><div>- Tap on <b>ADD</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-TCX7wvZIUgk/YZaSu3RP0KI/AAAAAAAAHWs/oKSMyP2OT10-XxwAYv4Sqppp89OAZk5eQCLcBGAsYHQ/s1600/1637257908023912-19.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-TCX7wvZIUgk/YZaSu3RP0KI/AAAAAAAAHWs/oKSMyP2OT10-XxwAYv4Sqppp89OAZk5eQCLcBGAsYHQ/s1600/1637257908023912-19.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>Once, bot added tap on it.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-NlRxVferYIw/YZaSs00gUFI/AAAAAAAAHWo/uzusG49rliMvkv0TFXDzMNxZGn-rVsQewCLcBGAsYHQ/s1600/1637257901840231-20.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-NlRxVferYIw/YZaSs00gUFI/AAAAAAAAHWo/uzusG49rliMvkv0TFXDzMNxZGn-rVsQewCLcBGAsYHQ/s1600/1637257901840231-20.png" width="400">
+  </a>
+</div><br></div><div>- Tap on <b>Promote to admin&nbsp;</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-QWr5JPZI78c/YZaSrdBYawI/AAAAAAAAHWk/wdZWHOYiC38g_zHldWU7KS2xl8fYDCWLQCLcBGAsYHQ/s1600/1637257894625803-21.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-QWr5JPZI78c/YZaSrdBYawI/AAAAAAAAHWk/wdZWHOYiC38g_zHldWU7KS2xl8fYDCWLQCLcBGAsYHQ/s1600/1637257894625803-21.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>Enable all except last two, and in custom title enter : <b>Admin</b> then tap on <b>✓</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-lcOPKPsfNtE/YZaSpq_YaII/AAAAAAAAHWc/PNu2H8suoA8By21wqkisV_a-QdJflBuuQCLcBGAsYHQ/s1600/1637257883061920-22.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-lcOPKPsfNtE/YZaSpq_YaII/AAAAAAAAHWc/PNu2H8suoA8By21wqkisV_a-QdJflBuuQCLcBGAsYHQ/s1600/1637257883061920-22.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>Done, now send any file in group or channel under 20MB size.</div><div><br></div><div>- Go back to Pabbly.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-SdHDAfyyDp8/YZaSmiE_PII/AAAAAAAAHWY/rQfO-kuqGJQch6siSX5lB1v5lMkPq3klwCLcBGAsYHQ/s1600/1637257874274873-23.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-SdHDAfyyDp8/YZaSmiE_PII/AAAAAAAAHWY/rQfO-kuqGJQch6siSX5lB1v5lMkPq3klwCLcBGAsYHQ/s1600/1637257874274873-23.png" width="400">
+  </a>
+</div><br></div><div>- Tap on Save &amp; Send Test Request, you will get all details of group using bot,</div><div><br></div><div>- In response, scroll down and note down the following sections in notepad it will be&nbsp; used in future.</div><div><br></div><div><b>- Message Document File Name</b></div><div><b>- Message Document Mime Type</b></div><div><b>- Message Document File Id</b></div><div><br></div><div>- Scroll down to create another trigger.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-waa-dlJsqJ8/YZaSkc0b8tI/AAAAAAAAHWQ/VTG6VTyKPjsVmjf2QUzxfC5-VCm1J5dngCLcBGAsYHQ/s1600/1637257867783571-24.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-waa-dlJsqJ8/YZaSkc0b8tI/AAAAAAAAHWQ/VTG6VTyKPjsVmjf2QUzxfC5-VCm1J5dngCLcBGAsYHQ/s1600/1637257867783571-24.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- In Choose App : Enter Telegram and Tap on Telegram Bot.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-bklUKINF_VM/YZaSi_7NBSI/AAAAAAAAHWM/P3Qr-Qci4roM8ZP2VawcrxXGFiNt-IXXwCLcBGAsYHQ/s1600/1637257860702399-25.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-bklUKINF_VM/YZaSi_7NBSI/AAAAAAAAHWM/P3Qr-Qci4roM8ZP2VawcrxXGFiNt-IXXwCLcBGAsYHQ/s1600/1637257860702399-25.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>- In Action Event, Select : Get File and Tap on <b>Connect</b>.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-2NDwE0Z9B84/YZaSg91EJgI/AAAAAAAAHWI/JJ1X6-GUR68xzDuzbdkIrxnH5rr6prfawCLcBGAsYHQ/s1600/1637257852697361-26.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-2NDwE0Z9B84/YZaSg91EJgI/AAAAAAAAHWI/JJ1X6-GUR68xzDuzbdkIrxnH5rr6prfawCLcBGAsYHQ/s1600/1637257852697361-26.png" width="400">
+  </a>
+</div><br></div><div>- Tap on Select Existing Connection, then tap on <b>Save</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-rP0F58HQ4BM/YZaSfBiGq1I/AAAAAAAAHWE/q7jBForxEMwcryBBdpPzwthlMk4fL0MkQCLcBGAsYHQ/s1600/1637257840909089-27.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-rP0F58HQ4BM/YZaSfBiGq1I/AAAAAAAAHWE/q7jBForxEMwcryBBdpPzwthlMk4fL0MkQCLcBGAsYHQ/s1600/1637257840909089-27.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>In File ID, select : 1. Message Document File Id : xxxxxxxxxx-------xxxxxxxxx and Tap on <b>Save &amp; Send Test Request.</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-FC7UK2BppmU/YZaScI6WQyI/AAAAAAAAHV8/x-HtNyVK-1o22BLopjFuldoORNYH6yNUACLcBGAsYHQ/s1600/1637257832324362-28.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-FC7UK2BppmU/YZaScI6WQyI/AAAAAAAAHV8/x-HtNyVK-1o22BLopjFuldoORNYH6yNUACLcBGAsYHQ/s1600/1637257832324362-28.png" width="400">
+  </a>
+</div><br></b></div><div><br></div><div>- You will get response,&nbsp;</div><div>-&nbsp;</div><div>In response, just note&nbsp; : <b>Result File Path</b> and scroll down to create another trigger.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-n5QhnJB1brQ/YZaSZ1lmVgI/AAAAAAAAHV4/Svh6SWfRwugXn35vdMdiq8CTrhfoGFk9QCLcBGAsYHQ/s1600/1637257820203144-29.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-n5QhnJB1brQ/YZaSZ1lmVgI/AAAAAAAAHV4/Svh6SWfRwugXn35vdMdiq8CTrhfoGFk9QCLcBGAsYHQ/s1600/1637257820203144-29.png" width="400">
+  </a>
+</div><br></div><div>- In Choose App : Enter Dropbox and Select <b>Dropbox</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-OP26wOa-xvU/YZaSW7b_mOI/AAAAAAAAHV0/3xjPWtWzZC48HC_HlBs3KxYt_Z498UB_QCLcBGAsYHQ/s1600/1637257813629778-30.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-OP26wOa-xvU/YZaSW7b_mOI/AAAAAAAAHV0/3xjPWtWzZC48HC_HlBs3KxYt_Z498UB_QCLcBGAsYHQ/s1600/1637257813629778-30.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>In Action Event, Select : Upload File then tap on <b>Connect</b>.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-kGwNxcLEbJ0/YZaSVAITrGI/AAAAAAAAHVw/bXEnxRY70HImAmVv8DBzd3ZGeMDHq8tDQCLcBGAsYHQ/s1600/1637257805729527-31.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-kGwNxcLEbJ0/YZaSVAITrGI/AAAAAAAAHVw/bXEnxRY70HImAmVv8DBzd3ZGeMDHq8tDQCLcBGAsYHQ/s1600/1637257805729527-31.png" width="400">
+  </a>
+</div><br></div><div>- Select : Add New Connection and Tap on Connect With Dropbox.</div><div><br></div><div>- Now, you have to authenticate Dropbox with Pabbly.</div><div><br></div><div>- Once, Authentication done just simply tap on <b>Save</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-zbG5FwcOkx8/YZaSTP112sI/AAAAAAAAHVs/3VpRrM_enZADR-xfJN1JBh6M6ebydFiBgCLcBGAsYHQ/s1600/1637257794489806-32.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-zbG5FwcOkx8/YZaSTP112sI/AAAAAAAAHVs/3VpRrM_enZADR-xfJN1JBh6M6ebydFiBgCLcBGAsYHQ/s1600/1637257794489806-32.png" width="400">
+  </a>
+</div><br></b></div><div><br></div><div>- https://api.telegram.org/file/bot : copy &amp; paste your bot token here with / at end.</div><div><br></div><div>- Just after that Select : <b>Result File Path</b></div><div><br></div><div>- In folder path, Enter your dropbox folder name with / at first, example : /files.</div><div><br></div><div>- Tap on <b>Save &amp; Send Test Request</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-WS24Q7nZvIY/YZaSQbnt81I/AAAAAAAAHVo/pHjFPu_ouoI2JtXf2QiBmJ8YJ8raIKs0QCLcBGAsYHQ/s1600/1637257787503471-33.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-WS24Q7nZvIY/YZaSQbnt81I/AAAAAAAAHVo/pHjFPu_ouoI2JtXf2QiBmJ8YJ8raIKs0QCLcBGAsYHQ/s1600/1637257787503471-33.png" width="400">
+  </a>
+</div><br></b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-9tAaCpCDAH0/YZaSOm9yWNI/AAAAAAAAHVk/AOy7RnoTM2U5tJGHZaFrL4vE8rLMQ1BxwCLcBGAsYHQ/s1600/1637257780901883-34.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-9tAaCpCDAH0/YZaSOm9yWNI/AAAAAAAAHVk/AOy7RnoTM2U5tJGHZaFrL4vE8rLMQ1BxwCLcBGAsYHQ/s1600/1637257780901883-34.png" width="400">
+  </a>
+</div><br></b></div><div>Perfecto, You successfully integrated Telegram and Dropbox to automate tasks.</div><div><br></div><div>Atlast, if you get response in return then all the files sent to group or channel will be auto saved to dropbox account for free but do remember that telegram bots can only download file in size of 20mb and they will expire in 1 hour, so don't send files more than 20mb it won't work, this is how you can auto save files from telegram to dropbox using pabbly.</div><div><br></div><div>Overall, Pabbly is one of the best automation platform, it is very easy to use due to user friendly mobile and desktop user interface that gives you simplified and enjoyable experience, but we have to wait and see will Pabbly make any major UI changes to make it even more better as of now Pabbly is quiet good for sure.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-2qDnK5gn1VE/YZaSM4z4E0I/AAAAAAAAHVg/OU2E5eBlm3MuoZg7nPb8nysqUh7AwtZ5gCLcBGAsYHQ/s1600/1637257773064599-35.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-2qDnK5gn1VE/YZaSM4z4E0I/AAAAAAAAHVg/OU2E5eBlm3MuoZg7nPb8nysqUh7AwtZ5gCLcBGAsYHQ/s1600/1637257773064599-35.png" width="400">
+  </a>
+</div><br></div><div><br></div><div>Moreover, it is worth to mention in Pabbly you can integrate &amp; connect thousands of applications to automate tasks, by using pabbly you can integrate telegram and dropbox in just 1 trigger and 2 actions, isn't awesome, Yes indeed if you are searching for such platform then Pabbly has potential to become your favourite.</div><div><br></div><div>Finally, This is how you can auto save and send telegram files to dropbox for free, so do you like it? Are you an existing user of Pabbly? If yes do mention which features you like the most in Pabbly with your user experience in our comment section below, see ya :)</div>
+<!-- no comments on this post -->

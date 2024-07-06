@@ -1,0 +1,103 @@
+---
+title:		"MacroDroid - Best Device Automation Tool On Your Android Device For Free."
+date:		2021-07-13 23:36:00
+updated:	2021-07-14 08:19:15
+tags: 
+  - Apps
+  - Automate
+  - Device
+  - MacroDroid
+  - free	
+permalink:	https://www.techtracker.in/2021/07/macrodroid-best-device-automation-tool.html
+---
+
+<div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-nsZJnObvgWk/YO3WOTtJtiI/AAAAAAAAFxM/xjb5lHQ5Yxk3_l2nrOkNPQvnOT-WAUO9wCLcBGAsYHQ/s1600/1626199606919943-0.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-nsZJnObvgWk/YO3WOTtJtiI/AAAAAAAAFxM/xjb5lHQ5Yxk3_l2nrOkNPQvnOT-WAUO9wCLcBGAsYHQ/s1600/1626199606919943-0.png" width="400">
+  </a>
+</div><div><br></div><div>Android is open source project due to that it is customizable, modifiable &amp; enjoyable but the problem is there is no automation feature available on it, so users must have to repeat each task everytime to get thier work done so, to fix this they can modify software which requires skill, knowledge and hardwork or install a automation app to automate certain possible tasks which requires two system level permissions.</div><div><br></div><div>We have numerous automation apps available on Android but most of them doesn't have pre made automation scripts due to that people who doesn't have any type of experience in device automation was unable to create thier own automatic task script using automation apps due to no background technical knowledge..</div><div><br></div><div>In this scenario, we have a workaround, we found a automation app which have many pre-made automation scripts made by alot of developers and people around the world to Automate numerous tasks on Android device for free named MacroDroid that will make your daily life simple &amp; amazing as it can build fully automate tasks In few taps. So do we got your attention? Do you like to automate tasks on your device? If yes let's know little more info to start automatizing like a <b>ROBOT</b> using MacroDroid!</div><div><br></div><div><b>• MacroDroid Official Support •</b></div><div><b><br></b></div><div><b>- </b><a href="https://twitter.com/macro_droid?s=09">Twitter</a></div><div><b><br></b></div><div><b>Website : </b><a href="http://macrodroid.com">macrodroid.com</a></div><div><b>Email</b> : <a href="http://support@macrodroid.com">support@macrodroid.com</a></div><div><br></div><div>- <b>App Info</b> - <a href="https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid">Google Play</a> -</div><div><b><br></b></div><div><b>• How to install MacroDroid •</b></div><div><b><br></b></div><div>It is very easy to install MacroDroid using these platforms for free.</div><div><b><br></b></div><div><b>- </b><a href="https://twitter.com/macro_droid?s=09">Google Play</a></div><div>- <a href="https://m.apkpure.com/macrodroid-device-automation/com.arlosoft.macrodroid">Apkpure</a></div><div><b><br></b></div><div><b>• How to create your own device automation script o</b><b>n MacroDroid•</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-kcF_vANGais/YO3WNh0M2rI/AAAAAAAAFxI/CTp0gluMzkYrIRlDrgTBZe_obIBscqXTACLcBGAsYHQ/s1600/1626199603075330-1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-kcF_vANGais/YO3WNh0M2rI/AAAAAAAAFxI/CTp0gluMzkYrIRlDrgTBZe_obIBscqXTACLcBGAsYHQ/s1600/1626199603075330-1.png" width="400">
+  </a>
+</div><br></b></div><div>- open MacroDroid, read changelog or else tap on <b>OK</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-GQFQturf_9I/YO3WMj-KKxI/AAAAAAAAFxA/Aw81afvx85Ye0AVmFCe2ht7YML6QeAr0ACLcBGAsYHQ/s1600/1626199599404982-2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-GQFQturf_9I/YO3WMj-KKxI/AAAAAAAAFxA/Aw81afvx85Ye0AVmFCe2ht7YML6QeAr0ACLcBGAsYHQ/s1600/1626199599404982-2.png" width="400">
+  </a>
+</div><br></b></div><div>- In Macros, Tap on <b>+</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-Eai1ur_MJ54/YO3WLlIZG7I/AAAAAAAAFw8/tzSXkVWszNUyawlY51K-yzu6hvagqrP0QCLcBGAsYHQ/s1600/1626199595303351-3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-Eai1ur_MJ54/YO3WLlIZG7I/AAAAAAAAFw8/tzSXkVWszNUyawlY51K-yzu6hvagqrP0QCLcBGAsYHQ/s1600/1626199595303351-3.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>Enter <b>Macro Name</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-KQs8re0UaXM/YO3WKu4Rg8I/AAAAAAAAFw4/Zq22VKW5Xy0F-pNUoP1Z-kXahGLxsibFACLcBGAsYHQ/s1600/1626199591146560-4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-KQs8re0UaXM/YO3WKu4Rg8I/AAAAAAAAFw4/Zq22VKW5Xy0F-pNUoP1Z-kXahGLxsibFACLcBGAsYHQ/s1600/1626199591146560-4.png" width="400">
+  </a>
+</div><br></b></div><div>- Tap on <b>Triggers +</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-1sOnEbGmpo4/YO3WJhn4caI/AAAAAAAAFww/CXdznLyAGogyzDS-w-ZSR1_lDM9T5LkUgCLcBGAsYHQ/s1600/1626199587078795-5.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-1sOnEbGmpo4/YO3WJhn4caI/AAAAAAAAFww/CXdznLyAGogyzDS-w-ZSR1_lDM9T5LkUgCLcBGAsYHQ/s1600/1626199587078795-5.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>Add the type of trigger that you want from the list.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-wx83Y9rncCs/YO3WIpzliYI/AAAAAAAAFws/NIyCO8hp144-hbTYe5NXWkhN1gG1I03kACLcBGAsYHQ/s1600/1626199583190225-6.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-wx83Y9rncCs/YO3WIpzliYI/AAAAAAAAFws/NIyCO8hp144-hbTYe5NXWkhN1gG1I03kACLcBGAsYHQ/s1600/1626199583190225-6.png" width="400">
+  </a>
+</div><br></div><div><b>- </b>After adding trigger, Tap on <b>+ Actions, </b>note<b>&nbsp;: </b>trigger&nbsp;and action is connected together.</div><div><br></div><div>For example : when you set a trigger then action will occur to do the insisted task.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-FKKLsZ2konE/YO3WHkONp2I/AAAAAAAAFwo/incUs47YiOYeK3ON41xmssNve3xonP5nACLcBGAsYHQ/s1600/1626199579388023-7.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-FKKLsZ2konE/YO3WHkONp2I/AAAAAAAAFwo/incUs47YiOYeK3ON41xmssNve3xonP5nACLcBGAsYHQ/s1600/1626199579388023-7.png" width="400">
+  </a>
+</div><br></div><div>- Add the type of action that you want from the list.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-SX4CjzJvh1k/YO3WGroGb9I/AAAAAAAAFwk/W4UdVLEF9t8KvqCpH4gIuyLKploiqzu3wCLcBGAsYHQ/s1600/1626199575351704-8.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-SX4CjzJvh1k/YO3WGroGb9I/AAAAAAAAFwk/W4UdVLEF9t8KvqCpH4gIuyLKploiqzu3wCLcBGAsYHQ/s1600/1626199575351704-8.png" width="400">
+  </a>
+</div><br></div><div>- Tap on <b>Constraints +</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-aOmnN_F3csw/YO3WFlDzNcI/AAAAAAAAFwg/45rDJ8eRz3sb8Adpgt0Hu1UhQMsKI0KoACLcBGAsYHQ/s1600/1626199571284115-9.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-aOmnN_F3csw/YO3WFlDzNcI/AAAAAAAAFwg/45rDJ8eRz3sb8Adpgt0Hu1UhQMsKI0KoACLcBGAsYHQ/s1600/1626199571284115-9.png" width="400">
+  </a>
+</div><br></b></div><div>- Add the type of Constraint from the list, when you add a certain constraint then it will restrict the particular constraint when your task is executed.&nbsp;</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-kQzloHosGCU/YO3WEieDTnI/AAAAAAAAFwc/YT4v-dyGyfYl-AmcjXgwiC00T_GGrPqcACLcBGAsYHQ/s1600/1626199567455937-10.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-kQzloHosGCU/YO3WEieDTnI/AAAAAAAAFwc/YT4v-dyGyfYl-AmcjXgwiC00T_GGrPqcACLcBGAsYHQ/s1600/1626199567455937-10.png" width="400">
+  </a>
+</div><br></div><div>- Once you add Triggers, Actions, Constraints, Tap on <b>=+</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-GercHhTcKiQ/YO3WDnLDQNI/AAAAAAAAFwY/MktTKisovfUw7olIt7HQazzxGeLWt0zJQCLcBGAsYHQ/s1600/1626199563460531-11.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-GercHhTcKiQ/YO3WDnLDQNI/AAAAAAAAFwY/MktTKisovfUw7olIt7HQazzxGeLWt0zJQCLcBGAsYHQ/s1600/1626199563460531-11.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>Your custom device automation script is added in <b>Macros</b></div><div><b><br></b></div><div><b>Done</b>, you successfully created your own device automation task using MacroDroid.</div><div><br></div><div>• <b>How&nbsp;to add pre-made device automation task scripts on MacroDroid •</b></div><div><b><br></b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-RwrKI8T6bzA/YO3WCqJLuNI/AAAAAAAAFwU/bMwlRLPY-pMY9jspdF_VtnVqnWc6uYsrACLcBGAsYHQ/s1600/1626199558929770-12.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-RwrKI8T6bzA/YO3WCqJLuNI/AAAAAAAAFwU/bMwlRLPY-pMY9jspdF_VtnVqnWc6uYsrACLcBGAsYHQ/s1600/1626199558929770-12.png" width="400">
+  </a>
+</div><br></b></div><div>- Open MacroDroid, In Templates, choose any pre-made automation task script from Top New, Top Rated, Latest, Top users.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-f5RCtnSAi-k/YO3WBST7LYI/AAAAAAAAFwQ/Di2a4ADAGGQ2vF_bWMzp3BCZyFxjO5v4ACLcBGAsYHQ/s1600/1626199554378696-13.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-f5RCtnSAi-k/YO3WBST7LYI/AAAAAAAAFwQ/Di2a4ADAGGQ2vF_bWMzp3BCZyFxjO5v4ACLcBGAsYHQ/s1600/1626199554378696-13.png" width="400">
+  </a>
+</div><br></div><div>- After selecting any pre made task script, here I selected youtube : auto skip ads, tap on <b>=+ </b>pointed at bottom.</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-tBJ0E4nnp5o/YO3WAR67t_I/AAAAAAAAFwM/INCrkI-iAeQScknGL9xurPsetc6aU8AeQCLcBGAsYHQ/s1600/1626199550038086-14.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-tBJ0E4nnp5o/YO3WAR67t_I/AAAAAAAAFwM/INCrkI-iAeQScknGL9xurPsetc6aU8AeQCLcBGAsYHQ/s1600/1626199550038086-14.png" width="400">
+  </a>
+</div><br></div><div>- Now, it will ask accessibility permission, tap on <b>OK</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-lFIBxJ1gdsM/YO3V_VMKg_I/AAAAAAAAFwI/VCMs4tiakRQe-ilyMTLac3bwiOhYT_5vACLcBGAsYHQ/s1600/1626199546237547-15.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-lFIBxJ1gdsM/YO3V_VMKg_I/AAAAAAAAFwI/VCMs4tiakRQe-ilyMTLac3bwiOhYT_5vACLcBGAsYHQ/s1600/1626199546237547-15.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>Scroll down, Tap on <b>MacroDroid &gt;</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-59jkxAvD2JU/YO3V-RWNGnI/AAAAAAAAFwE/ZbWJGRIzRPsqa7fvrBfiZ5sdprLZXAVpgCLcBGAsYHQ/s1600/1626199542262306-16.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-59jkxAvD2JU/YO3V-RWNGnI/AAAAAAAAFwE/ZbWJGRIzRPsqa7fvrBfiZ5sdprLZXAVpgCLcBGAsYHQ/s1600/1626199542262306-16.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>Tap on <b>ALLOW</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-JBScDA8BB_4/YO3V9abtF-I/AAAAAAAAFwA/hd-kO5aDen0JrmakL7V-L81Pdwtehv6bQCLcBGAsYHQ/s1600/1626199537717588-17.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-JBScDA8BB_4/YO3V9abtF-I/AAAAAAAAFwA/hd-kO5aDen0JrmakL7V-L81Pdwtehv6bQCLcBGAsYHQ/s1600/1626199537717588-17.png" width="400">
+  </a>
+</div><br></b></div><div>- Go back, Tap on <b>=+</b> again,&nbsp;</div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-xguwvUOm5So/YO3V8O_t7wI/AAAAAAAAFv8/lh2WgBqKwC4GT963cAOuoGllhxXXr5IyQCLcBGAsYHQ/s1600/1626199532358802-18.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-xguwvUOm5So/YO3V8O_t7wI/AAAAAAAAFv8/lh2WgBqKwC4GT963cAOuoGllhxXXr5IyQCLcBGAsYHQ/s1600/1626199532358802-18.png" width="400">
+  </a>
+</div><br></div><div>- Now, pre-made device automation script will be added in macros.</div><div><br></div><div><b>Wow</b>, you successfully added pre-made device automation script on MacroDroid.</div><div><br></div><div>• <b>MacroDroid key features with UI / UX Overview •</b></div><div><b><br></b></div><div>- Experimental Features</div><div>- Root Features</div><div>- Numerous Triggers, Actions, Constraints</div><div>- Huge list of pre-made device automation scripts from users around the world.</div><div>- Microwizard mode</div><div>- Light mode &amp; dark mode</div><div>- Notification option</div><div>- Password protection</div><div>- Unlock more features by premium subscription</div><div><br></div><div>• <b>How to upgrade to MacroDroid premium •</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-nNbbPR9KCb4/YO3V6-4bDDI/AAAAAAAAFv4/9vMSd9ZslnMmEcJeBqWiVvcTMlPx_xPjgCLcBGAsYHQ/s1600/1626199528095010-19.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-nNbbPR9KCb4/YO3V6-4bDDI/AAAAAAAAFv4/9vMSd9ZslnMmEcJeBqWiVvcTMlPx_xPjgCLcBGAsYHQ/s1600/1626199528095010-19.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>Open MacroDroid, In home tap on <b>Upgrade</b></div><div><b><br></b></div><div><b><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-r6PzFnvR5SQ/YO3V52h6G_I/AAAAAAAAFv0/-mdWiuel0uQw4DxQ7FL4raDzegDFRZPMACLcBGAsYHQ/s1600/1626199523913867-20.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-r6PzFnvR5SQ/YO3V52h6G_I/AAAAAAAAFv0/-mdWiuel0uQw4DxQ7FL4raDzegDFRZPMACLcBGAsYHQ/s1600/1626199523913867-20.png" width="400">
+  </a>
+</div><br></b></div><div><b>- </b>Tap on <b>Upgrade Now</b> and pay the fees using Google Play In app purchase.</div><div><br></div><div>• <b>MacroDroid Premium Upgrade Features •</b></div><div><b><br></b></div><div>- Unlimited Macros</div><div>- No Adverts</div><div>- Cloud Backup</div><div>- Join the community</div><div>- No subscriptions</div><div>- Support the developer</div><div><br></div><div>Atlast, This are just highlighted key features of MacroDroid there&nbsp;may be many hidden features inbuild that provides you external benefits to give the ultimate usage experience, MacroDroid is&nbsp;best and simple device automation app on&nbsp;Android So if you want easy to use device automation app with alot of features then MacroDroid is&nbsp;definitely worth it.&nbsp;<br></div><div><br></div><div>Overall,&nbsp;MacroDroid&nbsp;is quick and fast to create or add device automation task scripts, it is very easy to use due to its simple user interface which gives you clean user experience but we have to wait and see will MacroDroid get any major UI changes in future to make it even more better, as of now&nbsp;MacroDroid&nbsp;have perfect user interface and user experience that you may like to use for sure.&nbsp;<br></div><div><br></div><div><div class="separator" style="clear: both; text-align: center;">
+  <a href="https://lh3.googleusercontent.com/-QgsyByb2ISg/YO3V4oJw-6I/AAAAAAAAFvw/6MWyWbV7A6EhUDtX-Za2LFLNkwBY0OuDgCLcBGAsYHQ/s1600/1626199517369145-21.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" src="https://lh3.googleusercontent.com/-QgsyByb2ISg/YO3V4oJw-6I/AAAAAAAAFvw/6MWyWbV7A6EhUDtX-Za2LFLNkwBY0OuDgCLcBGAsYHQ/s1600/1626199517369145-21.png" width="400">
+  </a>
+</div><br></div><div>- UI Interaction</div><div>- Expand / Collapse Status Bar</div><div><br></div><div>Moreover, it is must to mention you have to just enable only two required accessbility permissions from settings to enjoy seamless experience but note free version of MacroDroid allows you to configure up to only 5 macros to get more you have to upgrade to pro but remember MacroDroid is one of the very few device automation apps that provide pre-made device automation scripts.</div><div><br></div><div>Yes, Indeed when MacroDroid is compared with other automation apps, MacroDroid always wins due to it's user friendly options so, if you are searching for an device Automation app which is user friendly and being loaded with numerous pre-made templates that are very easy to use then we suggest you to choose MacroDroid it&nbsp;is an excellent choice that has potential to become your new&nbsp;favorite.&nbsp;</div><div><br></div><div>Finally<b>,&nbsp;</b>This is&nbsp;MacroDroid - best device Automation tool on Android, do you like it? If yes? Are you an existing user of MacroDroid? If you are an existing user of MacroDroid do say your experience with MacroDroid and mention which features you like the most in it in our comment section below, see ya :)&nbsp;</div>
+<!-- no comments on this post -->
