@@ -1,0 +1,53 @@
+{
+  "name": "Tech Tracker",
+  "short_name": "TT",
+  "description": " We strive to provide useful content on technology with handpicked news for everyone in simplified manner.",
+  "lang": "en-US",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "start_url": "/?utm_source=homescreen",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "#",
+      "sizes": "32x32"
+    },
+    {
+      "src": "#",
+      "sizes": "72x72"
+    },
+    {
+      "src": "#",
+      "sizes": "96x96"
+    },
+    {
+      "src": "#",
+      "sizes": "128x128"
+    },
+    {
+      "src": "#",
+      "sizes": "144x144"
+    },
+    {
+      "src": "#",
+      "sizes": "152x152"
+    },
+    {
+      "src": "#",
+      "sizes": "192x192"
+    },
+    {
+      "src": "#",
+      "sizes": "384x384"
+    },
+    {
+      "src": "#",
+      "sizes": "512x512"
+    },
+    {
+      "src": "#",
+      "sizes": "1024x1024"
+    }
+  ]
+}
